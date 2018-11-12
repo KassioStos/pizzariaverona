@@ -1,0 +1,176 @@
+[
+	{ 
+		"name":"Calabresa", 
+		"descript":"Molho, Mussarela, Calabresa, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Mista", 
+		"descript":"Molho, Mussarela, Presuto, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Napolitana", 
+		"descript":"Molho, Mussarela, Tomate, Parmesão e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Dois Queijos", 
+		"descript":"Molho, Mussarela e Parmesão", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Três Queijos", 
+		"descript":"Molho, Mussarela, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Calabresa C/ Catupiry", 
+		"descript":"Molho, Mussarela, Calabresa, Catupiry e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Mussarela", 
+		"descript":"Molho, Mussarela e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Brasileira", 
+		"descript":"Molho, Mussarela, Milho, Ervilha, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Baiana", 
+		"descript":"Molho, Mussarela, Calabresa Picada, Pimenta Calabresa, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Marguerita", 
+		"descript":"Molho, Tomate, Mangericão, Mussarela e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":true 
+	},
+        { 
+		"name":"Frango C/ Catupiry", 
+		"descript":"Molho, Mussarela, Frango, Catupiry e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false
+	},
+        { 
+		"name":"Frango C/ Catupiry", 
+		"descript":"Molho, Mussarela, Frango, Catupiry e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	},
+        { 
+		"name":"Calabresa C/ Bacon", 
+		"descript":"Molho, Mussarela, Calabresa, Bacon, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	},
+        { 
+		"name":"Atum", 
+		"descript":"Molho, Mussarela, Atum, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	},
+        { 
+		"name":"Portuguesa", 
+		"descript":"Molho, Mussarela, Presunto, Ovo, Cebola, Azeitona, Pimentão e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	},
+        { 
+		"name":"Lombinho", 
+		"descript":"Molho, Mussarela, Lombinho, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	},
+        { 
+		"name":"Peito de Peru", 
+		"descript":"Molho, Mussarela, Peito de Peru, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	},
+        { 
+		"name":"Toscana", 
+		"descript":"Molho, Mussarela, Calabresa, Lombinho, Tomate, Cebola e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	},
+        { 
+		"name":"Tropicana", 
+		"descript":"Molho, Mussarela, Presunto, Calabresa, Milho Verde e Orégano", 
+		"priceP":"nulo",
+		"priceM":"nulo",
+		"priceG":"27,99",
+		"priceF":"31,99",
+		"promo":false 
+	}
+
+]
+
+
